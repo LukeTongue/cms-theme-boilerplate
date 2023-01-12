@@ -6,7 +6,7 @@ Note: _macros.css needs to be imported into each stylesheet where macros are use
 */
 
 /* Generic
-This is where reset, normalize & box-sizing styles go.
+This is where reset, normalize & box-sizing styles go. 
 */
 
 {% include './generic/_reset.css' %}
